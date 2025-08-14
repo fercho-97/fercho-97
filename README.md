@@ -7,7 +7,7 @@
 ---
 
 ## 🛠 Tecnologías que manejo
-- **Backend:** Java, Spring Boot, Quarkus, MicroProfile
+- **Backend:** Java, Spring Boot, Quarkus, MicroProfil
 - **Frontend:** Vue, Angular, Bootstrap, HTML, CSS
 - **Bases de datos:** PostgreSQL, MySQL
 - **Arquitectura:** Microservicios, Consul, Docker, Kubernetes
@@ -29,8 +29,7 @@
 ---
 
 ## 📊 Mis estadísticas de GitHub
-![Estadísticas]([![trophy](https://github-profile-trophy.vercel.app/?username=fercho-97&theme=onedark&title=MultiLanguage,Repositories,Experience,Commits)](https://github.com/ryo-ma/github-profile-trophy)
-)
+![Estadísticas](https://github-profile-trophy.vercel.app/?username=fercho-97&theme=onedark&title=MultiLanguage,Repositories,Experience,Commits)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=fercho-97&layout=compact&theme=radical)
 
